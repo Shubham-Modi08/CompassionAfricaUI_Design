@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_super_bottom_bar"
+        android:icon="@drawable/gift"
+        android:title="@string/give" />
+
+    <item
+        android:id="@+id/radio_super_bottom_bar"
+        android:icon="@drawable/mail"
+        android:title="@string/write" />
+
+    <item
+        android:id="@+id/search_super_bottom_bar"
+        android:icon="@drawable/menu"
+        android:title="" />
+
+    <item
+        android:id="@+id/library_super_bottom_bar"
+        android:icon="@drawable/namaste"
+        android:title="@string/pray" />
+
+    <item
+        android:id="@+id/profile_super_bottom_bar"
+        android:icon="@drawable/children"
+        android:title="@string/children" />
+</menu>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UiDesign</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="give">Give</string>
+    <string name="write">Write</string>
+    <string name="pray">Pray</string>
+    <string name="children">Children</string>
+    <string name="stories">Stories</string>
+    <string name="see_all">See all</string>
+    <string name="prayers">Prayers</string>
+    <string name="prayers_desc">Curabitur blandit tempus porttitor. Etiam porta sem malesuada magna.</string>
+    <string name="stories_desc">Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio.</string>
+    <string name="news">News</string>
+    <string name="blogs">Blogs</string>
+    <string name="videos">Videos</string>
+    <string name="compassion_appeals">Compassion Appeals</string>
+    <string name="hello">HELLo</string>
+    <string name="compassion_on_instagram">Compassion on Instagram</string>
+    <string name="welcome_to">Welcome to the new Compassion UK App!</string>
+    <string name="tell_me_more">Tell me more</string>
+    <string name="gift_card_title">Gift Aid preference</string>
+    <string name="gift_card_desc">It looks like your Gift Aid preference is unknown to us, update to make your donations go further.</string>
+    <string name="podcasts">Podcasts</string>
+    <string name="premier_radio">Premier radio</string>
+    <string name="app_feedback">App feedback</string>
+    <string name="love_to_hear">We’d love to hear what you think about the Compassion app</string>
+    <string name="give_feedback">Give feedback</string>
+
+</resources>
